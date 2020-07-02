@@ -1,1 +1,1 @@
-agora depois de conseguir adicionar o vcs...testando
+agora depois de conseguir adicionar o vcs...testando..
