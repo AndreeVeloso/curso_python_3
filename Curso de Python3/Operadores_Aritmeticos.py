@@ -1,0 +1,25 @@
+######################### OPERADORES ARITMETICOS #########################
+
+"""
++ -> ADICAO
+- -> SUBTRACAO
+* -> MULTIPLICACAO
+/ -> DIVISAO
+// -> DIVISAO COM RESULTADO ARREDONDADO PRO NUMERO INTEIRO
+** -> POTENCIACAO
+% -> DIVISAO COM RETORNO DO RESTO
+() -> USADO PARAR ALTERARA A PRECEDENCIA NA CONTA
+"""
+
+print(10*10) # MULTIPLICACAO
+
+print(10+10) # ADICAO
+
+print(10**10) # POTENCIACAO
+
+print('Divisao / ', 10/2) # DIVISAO
+
+############
+
+print(10.5 * 'Andre')
+
