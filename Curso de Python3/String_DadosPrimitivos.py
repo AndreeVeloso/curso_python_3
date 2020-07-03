@@ -39,3 +39,5 @@ print(1.75, type(1.75))
 #Bool, Maior de idade
 print(27 >= 18, type(27 >= 18))
 
+#Termino
+
